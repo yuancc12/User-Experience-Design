@@ -25,8 +25,8 @@
 **系級**：科技系三年級乙班\
 **E-mail**：ydsoon02@gmail.com\
 **相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
-#練習專區
-#作業專區
-#專題演講
-#課堂PPT
-#筆記區
+# 練習專區
+# 作業專區
+# 專題演講
+# 課堂PPT
+# 筆記區
