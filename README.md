@@ -8,13 +8,15 @@
 + [專題演講](https://github.com/yuancc12/User-Experience-Design/blob/main/README.md#%E5%B0%88%E9%A1%8C%E6%BC%94%E8%AC%9B)
 + [課堂PPT](https://github.com/yuancc12/User-Experience-Design/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
 + [筆記區](https://github.com/yuancc12/User-Experience-Design/blob/main/README.md#%E7%AD%86%E8%A8%98%E5%8D%80)
-+ [課綱](https://moodle3.ntnu.edu.tw/pluginfile.php/1250815/mod_resource/content/0/20240222_User%20Experience%20Design_Syllabus.pdf)
+
 # 簡介
 **授課教師:林宗進教授**
 
 **上課時間：星期四 13.20-16.10**
 
 **上課地點：正301**
+
+** [課綱](https://moodle3.ntnu.edu.tw/pluginfile.php/1250815/mod_resource/content/0/20240222_User%20Experience%20Design_Syllabus.pdf)**
 ***
 # 自我介紹
 **姓名**：[孫源智](https://yuancc12.github.io/web/mypages/)\
