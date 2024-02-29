@@ -36,3 +36,4 @@
 + [第一周](https://moodle3.ntnu.edu.tw/pluginfile.php/1249466/mod_resource/content/0/2022%20UX%20%E7%94%A2%E6%A5%AD%E8%88%87%E5%B7%A5%E4%BD%9C%E8%80%85%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%91%8A.pdf)
 + [第二周](https://moodle3.ntnu.edu.tw/pluginfile.php/1258383/mod_resource/content/0/20240229_User%20Experience%20Design_Week%202.pdf)
 # 筆記區
++ [第二周](https://www.notion.so/846cd85238754e0881521b9fe97de541?pvs=4)
