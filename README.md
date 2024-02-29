@@ -3,12 +3,12 @@
 # 目錄
 + [簡介](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
 + [自我介紹](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
-+ [參考文獻](https://github.com/yuancc12/User-Experience-Design/blob/main/README.md#%E7%B7%B4%E7%BF%92%E5%B0%88%E5%8D%80)
++ [參考文獻](https://github.com/yuancc12/User-Experience-Design/blob/main/README.md#%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB)
 + [作業專區](https://github.com/yuancc12/User-Experience-Design/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E5%B0%88%E5%8D%80)
 + [專題演講](https://github.com/yuancc12/User-Experience-Design/blob/main/README.md#%E5%B0%88%E9%A1%8C%E6%BC%94%E8%AC%9B)
 + [課堂PPT](https://github.com/yuancc12/User-Experience-Design/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
 + [筆記區](https://github.com/yuancc12/User-Experience-Design/blob/main/README.md#%E7%AD%86%E8%A8%98%E5%8D%80)
-
++ [課綱](https://moodle3.ntnu.edu.tw/pluginfile.php/1250815/mod_resource/content/0/20240222_User%20Experience%20Design_Syllabus.pdf)
 # 簡介
 **授課教師:林宗進教授**
 
@@ -25,7 +25,7 @@
 **系級**：科技系三年級乙班\
 **E-mail**：ydsoon02@gmail.com\
 **相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
-+ [課綱](https://moodle3.ntnu.edu.tw/pluginfile.php/1250815/mod_resource/content/0/20240222_User%20Experience%20Design_Syllabus.pdf)
+
 # 參考文獻
 # 作業專區
 # 專題演講
