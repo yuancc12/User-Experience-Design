@@ -17,7 +17,7 @@
 **上課地點：正301**
 
 **課綱**
-+[課綱](https://moodle3.ntnu.edu.tw/pluginfile.php/1250815/mod_resource/content/0/20240222_User%20Experience%20Design_Syllabus.pdf)
++ [課綱](https://moodle3.ntnu.edu.tw/pluginfile.php/1250815/mod_resource/content/0/20240222_User%20Experience%20Design_Syllabus.pdf)
 ***
 # 自我介紹
 **姓名**：[孫源智](https://yuancc12.github.io/web/mypages/)\
