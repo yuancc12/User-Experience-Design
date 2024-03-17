@@ -33,8 +33,11 @@
 # 作業專區
 # 專題演講
 # 課堂PPT
-+ [第一周](https://moodle3.ntnu.edu.tw/pluginfile.php/1249466/mod_resource/content/0/2022%20UX%20%E7%94%A2%E6%A5%AD%E8%88%87%E5%B7%A5%E4%BD%9C%E8%80%85%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%91%8A.pdf)
-+ [第二周](https://moodle3.ntnu.edu.tw/pluginfile.php/1258383/mod_resource/content/0/20240229_User%20Experience%20Design_Week%202.pdf)
++ [第二周-1](https://moodle3.ntnu.edu.tw/pluginfile.php/1249466/mod_resource/content/0/2022%20UX%20%E7%94%A2%E6%A5%AD%E8%88%87%E5%B7%A5%E4%BD%9C%E8%80%85%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%91%8A.pdf)
++ [第二周-2](https://moodle3.ntnu.edu.tw/pluginfile.php/1248001/mod_resource/content/0/WEEK2_Supplementary_Garrett_The%20Elements%20of%20User%20Experience.pdf)
++ [第二周-3](https://moodle3.ntnu.edu.tw/pluginfile.php/1258383/mod_resource/content/0/20240229_User%20Experience%20Design_Week%202.pdf)
++ [第四周-1](https://moodle3.ntnu.edu.tw/pluginfile.php/1249190/mod_resource/content/0/Week%204_UX%20research%20methods.pdf)
++ [第四周-2](https://moodle3.ntnu.edu.tw/pluginfile.php/1267496/mod_resource/content/0/20240314_User%20Experience%20Design_Week%204.pdf)
 # 筆記區
 + [第二周](https://www.notion.so/846cd85238754e0881521b9fe97de541?pvs=4)
 + [第四周](https://www.notion.so/992f37508a114e84a7e221be79bf07cc?pvs=4)
